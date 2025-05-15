@@ -60,8 +60,8 @@ endmodule
 ![image](https://github.com/user-attachments/assets/578db889-f84d-4e2e-b451-555b4e32e3f1)
 
 
-Developed by: M. KISHORE
-RegisterNumber: 24900763
+Developed by: Aswinth Balaji DS
+RegisterNumber: 24900961
 
 
 
